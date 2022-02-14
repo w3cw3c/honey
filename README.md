@@ -1,6 +1,6 @@
 # <font color="red">沁园春·长沙</font>
 
-![WeChat Image_20210822205602](C:\Users\GP62\Pictures\Saved Pictures\WeChat Image_20210822205602.jpg)
+![](https://t7.baidu.com/it/u=2168645659,3174029352&fm=193&f=GIF)
 
 [现代] [毛泽东]
 <table><tr><td bgcolor="yellow">
