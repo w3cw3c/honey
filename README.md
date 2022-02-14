@@ -1,10 +1,12 @@
-# 沁园春·长沙
+# <font color="red">沁园春·长沙</font>font>
+
+![WeChat Image_20210822205602](C:\Users\GP62\Pictures\Saved Pictures\WeChat Image_20210822205602.jpg)
 
 [现代] [毛泽东]
+<table><tr><td bgcolor="yellow">
+<font color="blue">独立寒秋，湘江北去，橘子洲头。</font>
 
-独立寒秋，湘江北去，橘子洲头。
-
-看万山红遍，层林尽染；
+<font color="green">看万山红遍，层林尽染；</font>
 
 漫江碧透，百舸争流。
 
@@ -26,4 +28,5 @@
 
 粪土当年万户侯。
 
-曾记否，到中流击水，浪遏飞舟！
+曾记否，到中流击水，浪遏飞舟！</td></tr></table>
+
